@@ -1,0 +1,52 @@
+body {
+    background-image: repeating-radial-gradient(darkviolet, chartreuse 10%, cyan 15%);
+}
+
+h1 {
+    color: darkturquoise;
+    text-shadow: 2px 2px 1px black, 5px 5px 5px yellow, 5px 5px 5px yellow;
+}
+
+#furbyGif {
+    border: 5px groove yellow;
+    padding: 0%;
+}
+
+#imgBackground {
+    background-image: url("source.gif");
+    /* padding: 20px; */
+    margin: 100px;
+    margin-top: 0px;
+    background-repeat: repeat;
+    border: 3px solid black;
+}
+
+.title {
+    color: black;
+    text-shadow: 4px 4px 3px aquamarine;
+    font-variant-position: super;
+    text-decoration-line: overline underline;
+    text-decoration-style: wavy;
+    text-decoration-color: white;
+}
+
+p {
+    color: aquamarine;
+    font-style: italic;
+    text-shadow: 1px 1px black;
+    text-decoration-line: overline underline;
+    text-decoration-style: wavy;
+    text-decoration-color: white;
+}
+
+a {
+    text-decoration: underline;
+    color: aliceblue;
+    font-size: 26px;
+    font-style: italic;
+}
+
+.links {
+    /* border: 2px solid black; */
+    margin-left: 100px;
+}
